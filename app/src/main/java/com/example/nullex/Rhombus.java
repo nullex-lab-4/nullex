@@ -6,6 +6,7 @@ public class Rhombus extends Shape {
     private double diagonal1;  // first diagonal
     private double diagonal2;  // second diagonal
 
+    private String color = "Orange";
     public Rhombus(double side, double diagonal1, double diagonal2) {
         this.side = side;
         this.diagonal1 = diagonal1;
