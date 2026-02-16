@@ -6,4 +6,5 @@ public abstract class Shape {
 
     String color = "blue";
     String color = "black";
+    string color = "orange"
 }
